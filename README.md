@@ -1,21 +1,16 @@
 <h1 align="center">
-  <img src="Meta.png" alt="Meta Kennel" width="200">
-  <br>Meta Kernel<br>
+  <br>Longyun Core<br>
 </h1>
 
-<h3 align="center">Another Mihomo Kernel.</h3>
+<h3 align="center">The proxy core for LongyunVPN.</h3>
 
 <p align="center">
-  <a href="https://goreportcard.com/report/github.com/MetaCubeX/mihomo">
-    <img src="https://goreportcard.com/badge/github.com/MetaCubeX/mihomo?style=flat-square">
-  </a>
-  <img src="https://img.shields.io/github/go-mod/go-version/MetaCubeX/mihomo/Alpha?style=flat-square">
-  <a href="https://github.com/MetaCubeX/mihomo/releases">
-    <img src="https://img.shields.io/github/release/MetaCubeX/mihomo/all.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/MetaCubeX/mihomo">
-    <img src="https://img.shields.io/badge/release-Meta-00b4f0?style=flat-square">
-  </a>
+  Longyun Core is the proxy engine that powers
+  <a href="https://github.com/Sakawat-hossain/LongyunVPN">LongyunVPN</a>. It is a
+  branded distribution built on the open-source
+  <a href="https://github.com/MetaCubeX/mihomo">Mihomo (Clash.Meta)</a> core by
+  MetaCubeX, and remains licensed under GPL-3.0. Upstream credit and copyright are
+  retained in <a href="LICENSE">LICENSE</a>.
 </p>
 
 ## Features
